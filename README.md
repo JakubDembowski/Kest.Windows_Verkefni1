@@ -1,2 +1,1 @@
 # Svor fyrir KEST
-  *Já
