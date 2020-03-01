@@ -1,2 +1,2 @@
-# Kest.Windows_Verkefni1
-Já
+# Svor fyrir KEST
+  *Já
